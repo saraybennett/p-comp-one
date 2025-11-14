@@ -11,7 +11,7 @@
   "dependencies": {
     "express": "^5.1.0",
     "lowdb": "^7.0.1",
-    "type": "module", 
+    "type": "module",
     "ngrok": "^5.0.0-beta.2",
     "save": "^2.9.0"
   }
